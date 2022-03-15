@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+}
+nav{
+    background-color: rgb(43, 53, 190);
+    color:white;
+}
+.bluebg{
+    background-color: rgb(43, 53, 190);
+}
+div[class$=collapse]{
+    font-size: 1rem;
+}
+.title{
+    font-size: 1.8rem;
+    font-family: 'Prompt', sans-serif;
+}
+.headtitle{
+    font-family: 'Prompt', sans-serif;
+    color:white;
+    font-size:2rem;
+    font-weight: bolder;
+}
+.changefont{
+    font-family: 'Prompt', sans-serif;
+}
+.headgroup > p{
+    color:white;
+}
